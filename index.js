@@ -5,6 +5,7 @@ var b = [1, 2, 3, 4];
 var checkA = Array.isArray(a);
 var checkB = Array.isArray(b);
 console.log(checkA);
+console.log(checkB);
 
 // Write a program that multiplies each entry in the following array by 2。
 var a = [1, 2, 3, 4, 5];
